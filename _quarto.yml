@@ -4,11 +4,11 @@ project:
 
 website:
   title: "Amie Liu"
-  favicon: /img/amielogo.png
+  favicon: img/amielogo.png
 
   navbar:
     pinned: true
-    logo: /img/amielogo.png
+    logo: /img/amielogo2.png
     
     # sub-pages  
     left:
