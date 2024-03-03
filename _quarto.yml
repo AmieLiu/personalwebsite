@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Amie Liu"
-  favicon: img/amielogo.png
+  favicon: /img/amielogo.png
 
   navbar:
     pinned: true
