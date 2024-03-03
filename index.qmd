@@ -1,11 +1,12 @@
 ---
-title: "personalwebsite"
+title: "Amie Liu"
+image: amie.jpeg
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
 ---
 
-This is a Quarto website.
+Hello. I'm Amie Liu, a UX designer based in Toronto.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+This website presents a curated collection of my UX projects. I am passionate about creating seamless and intuitive user experiences that prioritize user needs and enhance digital interactions. Feel free to [reach out](mailto:amie.liu@mail.utoronto.ca)!

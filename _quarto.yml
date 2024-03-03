@@ -3,16 +3,33 @@ project:
   output-dir: docs
 
 website:
-  title: "personalwebsite"
+  title: "Amie Liu"
+  favicon: img/amielogo.png
+
   navbar:
+    pinned: true
+    logo: /img/logo.png
+    
+    # sub-pages  
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - myworks.qmd
+  
+  page-footer:
+    center: 
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "My Works"
+        href: myworks.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: lux
+    linkcolor: "#747264"
     css: styles.css
     toc: true
 

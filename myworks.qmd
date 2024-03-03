@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "My Works"
 ---
 
 My name is Amie Liu, a university student and UX designer based in Toronto, Ontario. Drawn to the intersection of technology and human interaction, I started my journey with a major in **Global Business and Digital Arts** and a minor in **Computing** at the University of Waterloo. Then, I delve into courses that provide a solid foundation in design principles and user research in the **Bachelor of Information** program at the University of Toronto.\

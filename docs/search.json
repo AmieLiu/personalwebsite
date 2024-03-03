@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personalwebsite",
+    "title": "Amie Liu",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello. I’m Amie Liu, a UX designer based in Toronto.\nThis website presents a curated collection of my UX projects. I am passionate about creating seamless and intuitive user experiences that prioritize user needs and enhance digital interactions. Feel free to reach out!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "My name is Amie Liu, a university student and UX designer based in Toronto, Ontario. Drawn to the intersection of technology and human interaction, I started my journey with a major in Global Business and Digital Arts and a minor in Computing at the University of Waterloo. Then, I delve into courses that provide a solid foundation in design principles and user research in the Bachelor of Information program at the University of Toronto.\n\nIn my professional life, I follow the philosophy that good design is not just about aesthetics but is about an iterative process that solves a problem. I believe the power of user-centric design will create meaningful experiences and help communities. When I am not immersed in the world of pixels and prototypes, you can find me swimming, resting on the beach, cooking new recipes, and traveling to different places."
+  },
+  {
+    "objectID": "myworks.html",
+    "href": "myworks.html",
+    "title": "My Works",
+    "section": "",
+    "text": "My name is Amie Liu, a university student and UX designer based in Toronto, Ontario. Drawn to the intersection of technology and human interaction, I started my journey with a major in Global Business and Digital Arts and a minor in Computing at the University of Waterloo. Then, I delve into courses that provide a solid foundation in design principles and user research in the Bachelor of Information program at the University of Toronto.\n\nIn my professional life, I follow the philosophy that good design is not just about aesthetics but is about an iterative process that solves a problem. I believe the power of user-centric design will create meaningful experiences and help communities. When I am not immersed in the world of pixels and prototypes, you can find me swimming, resting on the beach, cooking new recipes, and traveling to different places."
   }
 ]
