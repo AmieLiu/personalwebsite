@@ -8,7 +8,7 @@ website:
 
   navbar:
     pinned: true
-    logo: /img/logo.png
+    logo: /img/amielogo.png
     
     # sub-pages  
     left:
