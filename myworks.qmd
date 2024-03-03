@@ -1,7 +1,45 @@
 ---
 title: "My Works"
+about: 
+  template: marquee
 ---
 
-My name is Amie Liu, a university student and UX designer based in Toronto, Ontario. Drawn to the intersection of technology and human interaction, I started my journey with a major in **Global Business and Digital Arts** and a minor in **Computing** at the University of Waterloo. Then, I delve into courses that provide a solid foundation in design principles and user research in the **Bachelor of Information** program at the University of Toronto.\
+The following is a selection of projects I have worked on that showcase my skills and expertise in user experience design and digital product development. Each project demonstrates my ability to conduct user research, analyze data, develop user personas, create wireframes and prototypes, and iterate designs based on user feedback. These projects not only highlight my proficiency in various UX design tools and methodologies but also reflect my dedication to delivering innovative and user-centric solutions across diverse digital platforms.
+
+# Wayfound
+
+![](img/wayfound.png){style="object-fit: contain" fig-align="center" width="350"}
+
+Wayfound was a course project on designing a wayfinding application for the Claude T. Bissell (BL) Building at the University of Toronto as part of INF 352 Information Design Studio II: How to Design (Professor Olivier St-Cyr). 
+
+[Have you ever gotten lost in the BL building?]{style="font-weight:bold;"}What was your first day like? Wayfound is designed to help people who visit the BL building navigate to their destinations conveniently.
+
+-   [Team]{style="font-weight:bold;"}: Alice Miao, Amie Liu, Hadi Ahmad, Wanling Ma
+
+-   [Platform]{style="font-weight:bold;"}: Mobile 
+
+-   [Sector]{style="font-weight:bold;"}: Education (University Building Navigation)
+
+-   [Tools Used]{style="font-weight:bold;"}: Canva, Miro, Google Forms, Google Sheets, Google Docs
+
+-   [Skills Developed]{style="font-weight:bold;"}: Interaction Design, Wireframing, Prototyping, Collaboration, Communication, Creativity, Critical Thinking, Problem-Solving, Empathy, Time Management, Adaptability, Attention to Detail
+
+-   [Methodologies]{style="font-weight:bold;"}: Design Thinking Process, Design Life Cycle, User Research, Lean Evaluation, Wizard of Oz Method, Usability Testing
+
+------------------------------------------------------------------------
+
+# Infinity
+
+![](img/infinity.jpg){style="object-fit: contain" fig-align="center" width="350"}
+
+Infinity was a course project in GBDA 210 Introduction to User Experience Design, where we designed a carpooling application under the guidance of Professor Ville Mäkelä.\
 \
-In my professional life, I follow the philosophy that good design is not just about aesthetics but is about an iterative process that solves a problem. I believe the power of **user-centric design** will create meaningful experiences and help communities. When I am not immersed in the world of pixels and prototypes, you can find me swimming, resting on the beach, cooking new recipes, and traveling to different places.
+Our main goal was to [build a safe and affordable carpooling app]{style="font-weight:bold;"} in four months, connecting users with similar interests. The app was designed for ease of use, highlighting its functionality, usability, and overall user experience.
+
+-   [Team]{style="font-weight:bold;"}: Aileen Chen, Amie Liu, Dylan Sharma, Fiona Feng, Natalie Hebert, and Vehara Rupasinghe
+
+-   [Platform]{style="font-weight:bold;"}: Mobile, Desktop
+
+-   [Sector]{style="font-weight:bold;"}: Shared Transportation Services
+
+-   [Tools Used]{style="font-weight:bold;"}: Figma, Google Docs

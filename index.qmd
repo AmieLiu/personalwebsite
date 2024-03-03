@@ -1,12 +1,26 @@
 ---
 title: "Amie Liu"
-image: amie.jpeg
 about: 
   template: jolla
+  id: block
+  image: "img/amie.jpeg"
   image-shape: round
   image-width: 17em
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/AmieLiu
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/amie-po-ling-liu-346544257/
+    - icon: envelope
+      text: Email
+      href: "mailto:amie.liu@mail.utoronto.ca"
 ---
 
-Hello. I'm Amie Liu, a UX designer based in Toronto.
+::: {#block}
+:::
+
+Hello! I'm Amie Liu, a UX designer based in Toronto.
 
 This website presents a curated collection of my UX projects. I am passionate about creating seamless and intuitive user experiences that prioritize user needs and enhance digital interactions. Feel free to [reach out](mailto:amie.liu@mail.utoronto.ca)!

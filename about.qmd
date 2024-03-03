@@ -1,7 +1,17 @@
 ---
 title: "About"
+about: 
+  template: marquee
 ---
 
-My name is Amie Liu, a university student and UX designer based in Toronto, Ontario. Drawn to the intersection of technology and human interaction, I started my journey with a major in **Global Business and Digital Arts** and a minor in **Computing** at the University of Waterloo. Then, I delve into courses that provide a solid foundation in design principles and user research in the **Bachelor of Information** program at the University of Toronto.\
+My name is Amie Liu, a university student and UX designer based in Toronto, Ontario. Drawn to the intersection of technology and human interaction, I started my journey with a major in [Global Business and Digital Arts]{style="font-weight:bold;"} and a minor in [Computing]{style="font-weight:bold;"} at the University of Waterloo. Then, I delve into courses that provide a solid foundation in design principles and user research in the [Bachelor of Information]{style="font-weight:bold;"} program at the University of Toronto.\
 \
-In my professional life, I follow the philosophy that good design is not just about aesthetics but is about an iterative process that solves a problem. I believe the power of **user-centric design** will create meaningful experiences and help communities. When I am not immersed in the world of pixels and prototypes, you can find me swimming, resting on the beach, cooking new recipes, and traveling to different places.
+In my professional life, I follow the philosophy that good design is not just about aesthetics but is about an iterative process that solves a problem. I believe the power of [user-centric design]{style="font-weight:bold;"} will create meaningful experiences and help communities. When I am not immersed in the world of pixels and prototypes, you can find me swimming, resting on the beach, cooking new recipes, and traveling to different places.
+
+-   [Tools]{style="font-weight:bold;"}: Figma, Balsamiq, Adobe Creative Suite, Miro, HTML/CSS, JavaScript, Python, Racket, R Studio
+
+-   [Technical Skills]{style="font-weight:bold;"}:Prototyping, Wireframing, User Research, Usability Testing, Design Thinking, Interaction Design, Usability Principles, Affinity Diagramming, Information Architecture
+
+-   [Soft Skills]{style="font-weight:bold;"}: Collaboration, Problem-Solving, Self-Management, Critical Thinking, Organization, Communication, Adaptability, Analytical, Creativity, Facilitator Skills
+
+![](img/amie2.JPG "Amie"){fig-align="center" width="300"}

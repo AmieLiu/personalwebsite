@@ -16,6 +16,8 @@ website:
         text: Home
       - about.qmd
       - myworks.qmd
+      - href: cv/cv.qmd
+        text: "Resume"
   
   page-footer:
     center: 
