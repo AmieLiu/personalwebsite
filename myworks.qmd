@@ -12,7 +12,7 @@ The following is a selection of projects I have worked on that showcase my skill
 
 Wayfound was a course project on designing a wayfinding application for the Claude T. Bissell (BL) Building at the University of Toronto as part of INF 352 Information Design Studio II: How to Design (Professor Olivier St-Cyr). 
 
-[Have you ever gotten lost in the BL building?]{style="font-weight:bold;"}What was your first day like? Wayfound is designed to help people who visit the BL building navigate to their destinations conveniently.
+[Have you ever gotten lost in the BL building?]{style="font-weight:bold;"} What was your first day like? Wayfound is designed to help people who visit the BL building navigate to their destinations conveniently.
 
 -   [Team]{style="font-weight:bold;"}: Alice Miao, Amie Liu, Hadi Ahmad, Wanling Ma
 
